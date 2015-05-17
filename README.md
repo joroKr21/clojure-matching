@@ -1,5 +1,7 @@
 # clojure-matching
 
+[![Build Status](https://travis-ci.org/joroKr21/clojure-matching.svg)](https://travis-ci.org/joroKr21/clojure-matching)
+
 A minimalistic pattern matching library for Clojure.
 
 This library is intended as a proof of concept. It shows the power of Clojure
